@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Chaitali996/pro1React.github.io/static/css/main.56c20f34.css",
+    "main.js": "/Chaitali996/pro1React.github.io/static/js/main.6e0de7c6.js",
+    "static/js/787.5283be59.chunk.js": "/Chaitali996/pro1React.github.io/static/js/787.5283be59.chunk.js",
+    "index.html": "/Chaitali996/pro1React.github.io/index.html",
+    "main.56c20f34.css.map": "/Chaitali996/pro1React.github.io/static/css/main.56c20f34.css.map",
+    "main.6e0de7c6.js.map": "/Chaitali996/pro1React.github.io/static/js/main.6e0de7c6.js.map",
+    "787.5283be59.chunk.js.map": "/Chaitali996/pro1React.github.io/static/js/787.5283be59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56c20f34.css",
+    "static/js/main.6e0de7c6.js"
+  ]
+}
